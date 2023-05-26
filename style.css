@@ -49,7 +49,7 @@ align-items: center;
     transform: translateY(-5px);
 }
 .overlay{
-    background-image: url(images/background.jpg);
+    background-image: url(background.jpg);
     height: 100%;
     width: 100%;
    background-size: cover;
